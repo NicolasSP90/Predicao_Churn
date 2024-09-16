@@ -10,6 +10,8 @@
 ![xgboost](https://img.shields.io/badge/xgboost-white?style=for-the-badge)
 ![lightgbm](https://img.shields.io/badge/lightgbm-2980b9?style=for-the-badge)
 
+---
+
 # Predição de Churn
 
 O projeto atual tem diversos objetivos.
